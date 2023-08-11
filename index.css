@@ -1,0 +1,1217 @@
+h1
+{
+    font-size: 10vw;
+    color: yellow;
+    margin: auto;
+    text-align: center;
+    
+}
+
+body
+{
+    background-color:#171717;
+    align-items: center;
+    
+}
+
+/* First box */
+
+.des
+{
+    font-size:20px;
+    margin-top:20px;
+    color:white;
+    margin-left: -2.5vw;
+    transform: translate(4vw,5vw);
+}
+
+.ov
+{
+    font-size:10vw;
+}
+
+.para
+{
+    font-size:5vw;
+    margin-top:5px;
+    color:white;
+}
+
+.english
+{
+   color: red;
+   font-size:6vw;
+   transform: translate(4vw,5vw);
+   
+}
+
+.round1
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    height:291vw;
+    width:89vw;
+    text-indent:middle ;
+    margin-top:20vw;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+    
+}
+
+.hr1
+{
+    color:;
+    background-color:#FFFF00;
+    height:1vw;
+    width:88.5vw;
+    margin-left:-4vw;
+    margin-top:-1px;
+}
+
+
+@media only screen and (min-width:768px) and (max-width:1020px) and (min-height:950px)
+{
+    .round1
+    {
+        height: 265vw;
+       
+        width: 95vw;
+    }
+    
+    .hr1
+    {
+        width: 94vw;
+    }
+    
+    .font1
+    {
+        font-size: 20vw;
+    }
+}
+@media only screen and (min-width:320px) and (min-height:950px)
+{
+    .font1
+    {
+        font-size: 40px;
+        margin-left: 20px;
+    }
+    
+    .font2
+    {
+        font-size:25px ;
+        margin-top: 40px;
+    }
+    
+    
+}
+
+
+
+
+/* Second Box  */
+
+
+.at
+{
+    font-size: 10vw;
+}
+
+.round2
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:345vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:20vw;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+    
+}
+
+@media only screen and (min-width:360px) and (max-width:420px) and (min-height:950px)
+{
+    .round2
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:275vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:20vw;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+    
+}
+}
+
+@media only screen and (min-width:430px) and (max-width:550px) and (min-height:950px)
+{
+    .round2
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:275vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:20vw;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+    
+}
+}
+
+
+@media only screen and (min-width:750px) and (max-width:1000px) and (min-height:950px)
+{
+    .round2
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:275vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:20vw;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+    padding-left: 0;
+    
+    
+}
+}
+
+.hr2
+{
+    color:;
+    background-color:#FFFF00;
+    min-height:1vw;
+    min-width:89.5vw;
+    margin-left:-1vw;
+    margin-top:-1px
+}
+
+.elect
+{
+   color: red;
+   font-size:6vw;
+   transform: translate(1vw,5vw);
+   padding: 0;
+   
+   
+}
+
+/* Third box */
+
+.round3
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    height:90vw;
+    width:89vw;
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+/* .font1 
+{
+    margin-top:-40px;
+} */
+
+.oxi
+{
+    margin-top:40px;
+    margin-left:30px;
+    font-size:40px;
+    color:yellow;
+    
+}
+
+
+#circle1
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-bottom:20px;
+    margin:auto;
+    text-align:center; 
+    text-indent:bottom;
+}
+
+#circle2
+{
+    width:50px;
+    height:50px;
+    background-color:green;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+#circle3
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+#circle4
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+
+#circle5
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+
+#circle6
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+
+
+#circle7
+{
+    width:50px;
+    height:50px;
+    background-color:red;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+
+#circle8
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+#circle9
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+#circle10
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+
+#circle11
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+#circle12
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+#circle13
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+
+#circle14
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+
+
+
+#circle15
+{
+    width:50px;
+    height:50px;
+    background-color:cyan;
+    border-radius:50%;
+    margin-top:20px;
+    margin:auto;
+    text-align:center;
+}
+
+/* .round1
+{
+    background-color:#00FFFF; 
+    border-radius:10px;
+    color:white;
+    height:900px;
+    width:370px;
+    text-indent:middle ;
+    margin-top:10px;
+    margin-left:5px;
+    
+} */
+
+.text
+{
+    margin-top:20px;
+    margin-left:15px;
+    color:black;
+}
+
+.scroll
+{
+    min-height:160px;
+    width:135vw;
+    overflow: auto;
+    white-space: nowrap;
+    margin-left:25px;
+    margin-top: -20vw;
+}
+
+@media only screen and (min-width:310px) and (max-width:360px)
+{
+    .scroll
+    {
+        width: 75vw;
+        padding-right:.130em;
+        margin-top: -10vw;
+    }
+    
+    .oxi
+    {
+        font-size: 10vw;
+    
+    }
+    
+    .ov
+    {
+        font-size: 10vw;
+    }
+    
+    .at
+    {
+        font-size: 10vw;
+    }
+}
+
+@media only screen and (min-width:360px) and (max-width:420px) 
+{
+   .scroll
+   {
+       width: 80vw;
+       padding-right:.130em;
+       margin-top: -5vw;
+       margin-left: 2vw;
+   } 
+   
+   .oxi
+    {
+        font-size: 10vw;
+    
+    }
+    
+    .ov
+    {
+        font-size: 10vw;
+    }
+    
+    .at
+    {
+        font-size: 10vw;
+    }
+}
+
+@media only screen and (min-width:430px) and (max-width:550px)
+{
+    .scroll
+    {
+        width:83vw;
+        padding-right: .130em;
+        margin-top: -1vw;
+        margin-left: 2vw;
+    }
+    
+    .oxi
+    {
+        font-size: 10vw;
+    
+    }
+    
+    .ov
+    {
+        font-size: 10vw;
+    }
+    
+    .at
+    {
+        font-size: 10vw;
+    }
+}
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .scroll
+    {
+        width:83vw;
+        padding-right: .130em;
+        margin-top: -1vw;
+        margin-left: 2vw;
+    }
+    
+    .round3
+    {
+        height: 50vw ;
+        width: 95vw;
+    }
+    
+    .oxi
+    {
+        font-size: 10vw;
+    
+    }
+    
+    .ov
+    {
+        font-size: 10vw;
+    }
+    
+    .at
+    {
+        font-size: 10vw;
+    }
+}
+
+/* Fourth box */
+
+
+
+.round4
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    height:115vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+.react
+{
+    font-size:10vw;
+    margin-left:5vw; 
+    margin-top:8vw;
+    color:yellow;
+}
+
+.electron
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+.hr3
+{
+    color:;
+    background-color:#FFFF00;
+    height:1vw;
+    width:88.5vw;
+    margin-left:-5vw;
+    margin-top:-1px;
+}
+
+
+@media only screen and (min-width:310px) and (max-width:360px)
+{
+    .hr3
+    {
+        margin-left: -6.5vw;
+    }
+    
+    .round4
+    {
+        height: 120vw;
+    }
+}
+
+
+@media only screen and (min-width:360px) and (max-width:420px) 
+{
+    .hr3
+    {
+        margin-left: -5.5vw;
+    }
+}
+
+
+@media only screen and (min-width:430px) and (max-width:550px)
+{
+    .hr3
+    {
+        margin-left: -4.5vw;
+    }
+}
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .round4
+    {
+        height: 115vw;
+        width: 95vw;
+    }
+    
+    
+    .hr3
+    {
+        margin-left: -2.5vw;
+    }
+    
+}
+
+/* Fifth box */
+
+.round5
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    height:493vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+.hr4
+{
+    color:;
+    background-color:#FFFF00;
+    height:1vw;
+    width:88.5vw;
+    margin-left:-5vw;
+    margin-top:-1px;
+}
+
+.thermo
+{
+    font-size:10vw;
+    margin-left:20px;
+    margin-top:20px;
+    color:yellow;
+}
+
+.dy
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+@media only screen and (min-width:310px) and (max-width:360px)
+{
+    .hr4
+    {
+       margin-left: -6.5vw;
+    }
+}
+
+@media only screen and (min-width:360px) and (max-width:420px) 
+{
+    .hr4
+    {
+        margin-left: -5.5vw;
+    }
+    
+}
+
+@media only screen and (min-width:430px) and (max-width:550px)
+{
+    .hr4
+    {
+        margin-left: -4.5vw;
+        
+    }
+    .round5
+    {
+        height: 480vw;
+    }
+    
+}
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    
+    .round5
+    {
+        height:470vw ;
+        width: 95vw;
+    }
+    
+    .hr4
+    {
+        margin-left: -2.5vw;
+        width: 95vw;
+    }
+    
+    
+}
+
+
+/* Sixth box */
+
+.round6
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    height:505vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+.phy
+{
+    font-size:10vw;
+    margin-left:15px;
+    margin-top:20px;
+    color:yellow;
+}
+
+.chem
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+@media only screen and (min-width:360px) and (max-width:420px) 
+{
+    .round6
+    {
+        height: 495vw;
+    }
+}
+
+
+@media only screen and (min-width:430px) and (max-width:550px)
+{
+    .round6
+    {
+        height: 485vw;
+    }
+}
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .round6
+    {
+        height: 475vw;
+        width: 95vw;
+    }
+}
+
+
+/* Seventh box */
+
+.round7
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    height:375vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+.electro
+{
+    font-size:10vw;
+    margin-left:15px;
+    margin-top:20px;
+    color:yellow;
+}
+
+.pro
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+.hr5
+{
+    color:;
+    background-color:#FFFF00;
+    height:1vw;
+    width:88.5vw;
+    margin-left:-6.5vw;
+    margin-top:-1px;
+}
+
+
+
+@media only screen and (min-width:360px) and (max-width:420px) 
+{
+    .hr5
+    {
+        margin-left: -5.5vw;
+    }
+}
+
+
+@media only screen and (min-width:430px) and (max-width:550px)
+
+{
+    .hr5
+    {
+        margin-left: -4.5vw;
+    }
+    
+    .round7
+    {
+        height: 360vw;
+    }
+}
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .round7
+    {
+        width: 95vw;
+        height: 345vw;
+    }
+    
+    .hr5
+    {
+        margin-left: -2.5vw;
+        width: 94.5vw;
+    }
+}
+
+/* Eighth box */
+
+.round8
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:145vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+.grid
+{
+    font-size:10vw;
+    margin-left:15px;
+    margin-top:20px;
+    color:yellow;
+}
+
+.meters
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+
+
+.hr6
+{
+    color:;
+    background-color:#FFFF00;
+    height:1vw;
+    min-width:88.5vw;
+    margin-left:-6.5vw;
+    margin-top:-1px;
+}
+
+@media only screen and (min-width:360px) and (max-width:420px) 
+{
+    .hr6
+    {
+        width: 87vw;
+        margin-left: -5.5vw;
+    }
+}
+
+
+@media only screen and (min-width:430px) and (max-width:550px)
+{
+    .hr6
+    {
+        width: 95vw;
+        margin-left: -4.5vw;
+    }
+    
+    . round8
+    {
+        width:95vw;
+    }
+}
+
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .round8
+    {
+        width: 95vw;
+        min-height: 20vw;
+    }
+    
+    .hr6
+    {
+        margin-left: -2.5vw;
+        width: 94.5vw;
+    }
+}
+
+
+/* Nineth box */
+
+
+.round9
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:135vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+
+.safety
+{
+    font-size:10vw;
+    margin-left:15px;
+    margin-top:20px;
+    color:yellow;
+}
+
+
+.prec
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+
+.hr7
+{
+    color:;
+    background-color:#FFFF00;
+    height:1vw;
+    min-width:88.5vw;
+    margin-left:-6.5vw;
+    margin-top:-1px;
+}
+
+
+@media only screen and (min-width:430px) and (max-width:550px)
+{
+    .hr7
+    {
+        width: 87vw;
+        margin-left: -4.5vw;
+    }
+}
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .round9
+    {
+        width: 95vw;
+        min-height: 20vw;
+    }
+    
+    .hr7
+    {
+        margin-left: -2.5vw;
+        width: 94.5vw;
+    }
+}
+
+
+@media only screen and (min-width:360px) and (max-width:420px) 
+{
+    .hr7
+    {
+        width: 87vw;
+        margin-left: -5.5vw;
+    }
+    
+}
+
+
+/* Tenth box */
+
+
+.round10
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:130vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+
+.imp
+{
+    font-size:10vw;
+    margin-left:15px;
+    margin-top:20px;
+    color:yellow;
+}
+
+
+.main
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+.hr8
+{
+    color:;
+    background-color:#FFFF00;
+    height:1vw;
+    min-width:88.5vw;
+    margin-left:-6.5vw;
+    margin-top:-1px;
+}
+
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .round10
+    {
+        width: 95vw;
+        min-height: 25vw;
+    }
+    
+    .hr8
+    {
+        margin-left: -2.5vw;
+        width: 94.5vw;
+    }
+}
+
+/* Eleventh box */
+
+.round11
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:115vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+.radio
+{
+    font-size:10vw;
+    margin-left:15px;
+    margin-top:20px;
+    color:yellow;
+}
+
+.nuc
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .round11
+    {
+        width: 95vw;
+        min-height: 30vw;
+    }
+    
+    .hr5
+    {
+        margin-left: -2.5vw;
+        width: 94.5vw;
+    }
+}
+
+
+/* Twelth box */
+
+
+.round12
+{
+    background-color:#282C35; 
+    border-radius:30px;
+    color:white;
+    min-height:195vw;
+    width:89vw; 
+    text-indent:middle;
+    margin-top:30px;
+    margin-left:5px;
+    border:5px solid #FFFF00;
+}
+
+.pre
+{
+    font-size:10vw;
+    margin-left:15px;
+    margin-top:20px;
+    color:yellow;
+}
+
+.val
+{
+    color:red;
+    font-size:6vw;
+    margin-top:30px;
+    margin-left:20px;
+}
+
+
+@media only screen and (min-width:750px) and (max-width:1000px)
+{
+    .round12
+    {
+        width: 95vw;
+        min-height: 30vw;
+    }
+    
+    .hr5
+    {
+        margin-left: -2.5vw;
+        width: 94.5vw;
+    }
+}
